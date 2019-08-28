@@ -1,6 +1,9 @@
 /**
  * In this example, a private method of a derived class is called
  * through a pointer of the base class type.
+ * 
+ * Answer can be found on stack overflow:
+ * https://stackoverflow.com/questions/3610936/why-can-i-access-a-derived-private-member-function-via-a-base-class-pointer-to-a
  */
 #include <iostream>
 #include <memory>
