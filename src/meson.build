@@ -1,7 +1,8 @@
 programs = [
     'access_private',
     'virtual_final',
-    'fibonacci_compile_time'
+    'fibonacci_compile_time',
+    'sfinae'
 ]
 
 foreach program: programs 
