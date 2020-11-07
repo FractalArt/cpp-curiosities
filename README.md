@@ -1,6 +1,6 @@
 # cpp-curiosities
 
-A collection of some curious things I encountered in C++. 
+A collection of some examples and curious things I encountered in C++. 
 
 ***
 
