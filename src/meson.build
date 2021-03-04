@@ -4,7 +4,8 @@ programs = [
     'fibonacci_compile_time',
     'sfinae',
     'optional_usage',
-    'constexpr'
+    'constexpr',
+    'lambda_bracket_mess'
 ]
 
 foreach program: programs 
