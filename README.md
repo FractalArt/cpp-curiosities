@@ -18,7 +18,7 @@ To compile the examples create a build directory, configure and compile using
 ```
 $ mkdir build
 $ cd build 
-$ meson
+$ meson ..
 $ ninja
 ```
 
